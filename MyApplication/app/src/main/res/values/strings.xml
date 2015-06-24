@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lollipop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Ingrese su nombre:</string>
+    <string name="sexo">Seleccione su genero:</string>
+    <string name="edad">Edad:</string>
+
+</resources>
